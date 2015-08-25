@@ -1,6 +1,45 @@
-hola
-koko
-mok
-pok
-cau
-ahoj
+#include "stdio.h"
+// pokus
+/*
+	poposajoaojs
+*/
+
+
+000
+111
+222
+sdf
+3werwer ops33
+4werwer opskwwttreasdaahooooojf
+erwerwer ops
+44
+sdf
+55
+888888kwwttreasdaahooooojf
+99er99
+d99er9999er9999er9999999s
+sdf
+e
+sdfdfserqew
+sdfdfserqew
+	sdfdfserqew
+	sdfdfserqew
+		re  sdfdfserqew
+werwer opsdf jidsfp po kwwttreasdaahooooojf joi opsdf
+j	
+	r we 	 wsdfdfserqew
+
+for (i=1;i<10;i++)
+{
+		std::cout << "ahoooj";
+}sdfdfserqew
+sdfdfserqew
+sdfdfserqew
+sdfdfserqew
+werwer opsdf jidsfp po kwwttreasdaahooooojf joi opsdf
+sdfdfserqew
+sdfdfserqewkwwttreasdaahooooojf
+sdfdfserqew
+sd    fdfserqew
+sdfdfserqewkwwttreasdaahooooojf
+sdfdfqqqqserqew
