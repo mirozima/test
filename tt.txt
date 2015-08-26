@@ -4,6 +4,8 @@ work in feature
 feature2
 feature2.2
 master
+feature1 in master
+feature1 #2
 #include "stdio.h"
 // pokus
 /*
